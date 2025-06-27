@@ -1,0 +1,47 @@
+* {
+    margin:0; 
+    padding:0;
+    box-sizing:border-box;  
+}
+
+.header {
+    text-align: center; 
+    padding: 10px;
+    text-align: center;
+    background: #f6ecd1;
+    color: #796b19;
+    font-size: 30px;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 90px;
+}
+
+body {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: rgb(246, 241, 225);
+}
+
+p{
+    font-size: 23px; 
+    margin-left: 230px;
+    margin-right: 230px; 
+    margin-top: 10px;
+    text-align: center;
+}
+
+body {
+  background-color: #fdf6ec; /* soft beige like now */
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #9a8823;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
