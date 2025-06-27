@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: auto;
+    background: rgb(241, 250, 224);
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  input {
+    font-family: 'Times New Roman', Times, serif;
+    width: 80%;
+    padding: 8px;
+    margin: 10px;
+  }
+  
+  button {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8px 16px;
+    margin: 5px;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+  
